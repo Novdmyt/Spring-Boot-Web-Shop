@@ -21,6 +21,8 @@ public class Banana {
     String name;
     @Column(name = "article")
     String article;
+    @Column(name = "description")
+    String descr;
     @Column(name = "price")
     Double price;
 }
