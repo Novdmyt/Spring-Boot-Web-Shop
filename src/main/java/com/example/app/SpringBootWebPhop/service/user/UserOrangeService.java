@@ -4,7 +4,7 @@ import com.example.app.SpringBootWebPhop.entity.Orange;
 import com.example.app.SpringBootWebPhop.repository.OrangeRepository;
 import com.example.app.SpringBootWebPhop.utils.Constants;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
+
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
